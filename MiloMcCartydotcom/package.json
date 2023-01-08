@@ -1,0 +1,9 @@
+{
+  "name": "milo-mc-cartydotcom",
+  "version": "0.0.0",
+  "description": "MiloMcCartydotcom",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
